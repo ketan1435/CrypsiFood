@@ -1,9 +1,7 @@
 // Snack bar for showing error message
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:geolocator/geolocator.dart';
 import 'package:sizer/sizer.dart';
-
 import '../Widget/app_colors.dart';
 import '../Widget/text_style.dart';
 
